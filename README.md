@@ -57,3 +57,23 @@ After training, the model achieves an accuracy between * 98% *. The evaluation m
 3. *Retail and Workplaces:* Ensuring staff and customer adherence to mask-wearing policies.
 4. *Smartphone Applications:* Real-time mask detection using mobile cameras for personal safety checks.
 5. *AI-Powered Access Control:* Allowing or restricting entry based on face mask compliance in offices, malls, or hospitals.
+
+## Classification metrics 
+
+![Image](https://github.com/user-attachments/assets/43618980-1fcf-42e1-9bd7-372efdb73804)
+
+## Confusion matrix 
+
+![Image](https://github.com/user-attachments/assets/aacba551-8501-4134-87db-c146bffcaade)
+
+## Accuracy and loss plots 
+
+![Image](https://github.com/user-attachments/assets/de0be4b9-3a9e-49aa-9b12-6f06e7695d00)
+
+## Predicted output
+
+![Image](https://github.com/user-attachments/assets/bf3c6a7c-7477-4db0-8574-430036b0e9c4)
+
+![Image](https://github.com/user-attachments/assets/2dc48aa7-9ef1-4aea-87d8-b4a3ae1983a9)
+
+![Image](https://github.com/user-attachments/assets/28e4e98f-0a1a-48ad-b764-81f02b2432e2)
